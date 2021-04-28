@@ -1,6 +1,6 @@
 Hello, developers.
 
-I'm 吴京京 👨‍💻, author of [python-wechaty](https://github.com/wechaty/python-wechaty), intern of [microsoft](http://github.com/microsoft/), master of [BUPT](https://www.bupt.edu.cn/), great passion about Chatbot.
+I'm 吴京京 👨‍💻, author of [python-wechaty](https://github.com/wechaty/python-wechaty), intern of [microsoft](http://github.com/microsoft/), artificial intelligence master of [BUPT](https://www.bupt.edu.cn/), great passion about Chatbot.
 
 🎃 🎃 Latest activites:
 
