@@ -5,7 +5,6 @@ I'm 吴京京 👨‍💻, author of [python-wechaty](https://github.com/wechaty
 🎃 🎃 Latest activites:
 
 - 📄 writing documentation system of [python-wechaty](https://python-wechaty.readthedocs.io/)
-- 📖 writing books: 《[Chatbot 从1到2](https://github.com/wechaty/chatbot-1-to-2)》
 - 👐 give more energy on [wechaty](https://github.com/wechaty/wechaty)
 - 🦈 ...
 
