@@ -9,6 +9,7 @@ I'm 吴京京 👨‍💻, author of [python-wechaty](https://github.com/wechaty
 - 🦈 ...
 
 Talks:
+- 2022.05.29 [AntigenBot: 小区抗疫AI](https://www.huodongxing.com/event/5650422598323)
 - 2021.10.30 [COSCon 2021 人工智能分论坛：聊一聊python-wechaty和paddlepaddle的有趣应用](https://www.bilibili.com/video/BV1YF411a77L?spm_id_from=333.999.0.0)
 - 2021.10.16-17 [PyCon 2021 Python Wechaty: Conversational RPA SDK](https://cn.pycon.org/2021)
 - 2021.4.14 [几行代码带你打造专属的AI ChatBot](https://www.bilibili.com/video/BV16U4y1h7dc)
