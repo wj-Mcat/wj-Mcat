@@ -20,3 +20,5 @@ Talks:
 - 2020.10.24 [2020 中国开源年会暨阿帕奇中国路演 - 人工智能OSS + AI | 分会场 - Multi：适合聊天机器人的Wechaty SDK](https://segmentfault.com/area/coscon-2020)
 
  [![wj-Mcat's github stats](https://github-readme-stats.vercel.app/api?username=wj-Mcat)](https://github.com/wj-Mcat)
+
+![知识星球](https://github.com/user-attachments/assets/2bd3321f-57ca-4c78-b2e8-608644d15ae8)
