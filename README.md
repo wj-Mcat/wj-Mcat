@@ -4,8 +4,8 @@ I'm 吴京京 👨‍💻, NLPer of [PaddleNLP](https://github.com/PaddlePaddle/
 
 🎃 🎃 Latest activites:
 
-- 📄 writing documentation system of [python-wechaty](https://python-wechaty.readthedocs.io/)
-- 👐 give more energy on [wechaty](https://github.com/wechaty/wechaty)
+- 📄 share paper & blog reading on [Agent-Handbook](https://github.com/wj-Mcat/agent-handbook)
+- 👐 share my thought on [wj-Mcat](https://wj-mcat.github.io/)
 - 🦈 ...
 
 Talks:
@@ -21,4 +21,4 @@ Talks:
 
  [![wj-Mcat's github stats](https://github-readme-stats.vercel.app/api?username=wj-Mcat)](https://github.com/wj-Mcat)
 
-![知识星球](https://github.com/user-attachments/assets/2bd3321f-57ca-4c78-b2e8-608644d15ae8)
+[![知识星球](https://github.com/user-attachments/assets/2bd3321f-57ca-4c78-b2e8-608644d15ae8)](https://t.zsxq.com/jmtpJ)
